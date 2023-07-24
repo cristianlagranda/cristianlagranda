@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">Experienced Electronic Engineer Transitioning into Data Science</h3>
+<h3 align="center">Experienced Electronic Engineer Transitioning into Data Engineering</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
